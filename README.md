@@ -64,3 +64,6 @@ Generate and print the concise summary via summarize_text
 9. it will download the file it takes nearly (1.6)gb data for first time.
 10. then run the final command the execute the code is python text_summarizer.py
 11. it will shows the output like this.
+
+$$output$$
+https://github.com/raja-coder-del/text-summarizer/issues
