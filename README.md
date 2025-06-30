@@ -66,4 +66,5 @@ Generate and print the concise summary via summarize_text
 11. it will shows the output like this.
 
 $$output$$
-https://github.com/raja-coder-del/text-summarizer/issues
+
+![Image](https://github.com/user-attachments/assets/c23ad54f-8924-49bc-b451-4d2c8cc4dc00)
