@@ -68,3 +68,7 @@ Generate and print the concise summary via summarize_text
 $$output$$
 
 ![Image](https://github.com/user-attachments/assets/c23ad54f-8924-49bc-b451-4d2c8cc4dc00)
+
+========================================================================================================
+                                                                                                   For any quries and issues contact me:
+                                                                                                   tekiraja143@gmail.com
